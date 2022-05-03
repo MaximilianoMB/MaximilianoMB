@@ -7,7 +7,7 @@ Here I share my projects, ongoing or finished, using the power of Javascript asw
 
 🌱 I have a strong desire to use technology to improve my life and the life of people around me, learning what is possible (what isn´t?) broadens life itself and I try to express that through my work.
 
-🤔 Looking to contribute and help other people in different and interesting projects anyway I can.
+🤔 Looking to contribute and help other people in different and interesting projects, anyway I can.
 
 💬 You can reach me in:
 
