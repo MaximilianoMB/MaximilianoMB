@@ -5,7 +5,7 @@ Hi there!👋
 I´m Max, a lifelong learner, currently in a deep dive in Web Development using JS, Node.js and React! 
 Here I share my projects, ongoing or finished, using the power of Javascript aswell as exploring other people´s work!
 
-🌱 I have a strong desire to use techlonogy to improve my life and the life of people around me, learning what is possible (what isn´t?) broadens life itself and I try to express that through my work.
+🌱 I have a strong desire to use technology to improve my life and the life of people around me, learning what is possible (what isn´t?) broadens life itself and I try to express that through my work.
 
 🤔 Looking to contribute and help other people in different and interesting projects anyway I can.
 
