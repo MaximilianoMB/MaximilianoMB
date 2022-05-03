@@ -11,7 +11,7 @@ Here I share my projects, ongoing or finished, using the power of Javascript asw
 
 💬 You can reach me in:
 
-<a href='https://www.linkedin.com/in/maximiliano-mb/'>![linkedin](https://img.shields.io/badge/LinkedIn-#0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
+<a href='https://www.linkedin.com/in/maximiliano-mb/'>![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 
 ⚡ Fun fact: I´ve spent years living out of a backpack travelling around the world. Now I´ve found my home! 😄
 
