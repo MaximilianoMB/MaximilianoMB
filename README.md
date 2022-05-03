@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there!👋
 
-<!--
-**MaximilianoMB/MaximilianoMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍀 About Me 
 
-Here are some ideas to get you started:
+I´m Max, a lifelong learner, currently in a deep dive in Web Development using JS, Node.js and React! 
+Here I share my projects, ongoing or finished, using the power of Javascript aswell as exploring other people´s work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I have a strong desire to use techlonogy to improve my life and the life of people around me, learning what is possible (what isn´t?) broadens life itself and I try to express that through my work.
+
+🤔 Looking to contribute and help other people in different and interesting projects anyway I can.
+
+💬 You can reach me in:
+
+<a href='https://www.linkedin.com/in/maximiliano-mb/'>![linkedin](https://img.shields.io/badge/LinkedIn-#0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
+
+⚡ Fun fact: I´ve spent years living out of a backpack travelling around the world. Now I´ve found my home! 😄
+
+
