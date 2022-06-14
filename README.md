@@ -1,18 +1,18 @@
-Hi there!👋
+Olá!👋
 
-🍀 About Me 
+🍀 Sobre mim
 
-I´m Max, a lifelong learner, currently in a deep dive in Web Development using JS, Node.js and React! 
-Here I share my projects, ongoing or finished, using the power of Javascript aswell as exploring other people´s work!
+Sou o Max, um desenvolvedor em desenvolvimento, atualmente num mergulho profundo em desenvolvimento web usando JS, Node.js, React, Next.js, sempre orientado pela Jamstack.
+Aqui partilho meus projetos, em desenvolvimento ou já em produção, onde também estudo o trabalho de outros devs.
 
-🌱 I have a strong desire to use technology to improve my life and the life of people around me, learning what is possible (what isn´t?) broadens life itself and I try to express that through my work.
 
-🤔 Looking to contribute and help other people in different and interesting projects, anyway I can.
+🌱 Meu objetivo aqui é usar a tecnologia para melhorar a minha vida e a de outras pessoas, aprender o que for possível (o que não é?) expande as fronteiras da vida e eu tento expressar tudo isso através do meu trabalho.
 
-💬 You can reach me in:
+Looking to contribute and help other people in different and interesting projects, anyway I can.Quero contribuir e ajudar diferentes pessoas em diferentes projetos, da melhor maneira que eu puder 😄!
+
+💬 Outras redes:
 
 <a href='https://www.linkedin.com/in/maximiliano-mb/'>![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 
-⚡ Fun fact: I´ve spent years living out of a backpack travelling around the world. Now I´ve found my home! 😄
 
 
